@@ -1,0 +1,8 @@
+# put in ~/.gitconfig
+[user]
+  email = jonasong@dsaid.gov.sg
+  name = gt-jonas
+[core]
+  editor = vim
+[url "git@github.com:dsaidgovsg/terraform-common-modules"]
+  insteadOf = https://github.com/dsaidgovsg/terraform-common-modules
